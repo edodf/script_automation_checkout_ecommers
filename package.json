@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@wdio/allure-reporter": "^8.38.2",
+    "@wdio/cli": "^8.38.2",
+    "@wdio/jasmine-framework": "^8.38.2",
+    "@wdio/json-reporter": "^8.38.2",
+    "@wdio/local-runner": "^8.38.2",
+    "@wdio/spec-reporter": "^8.38.2"
+  },
+  "scripts": {
+    "wdio": "wdio run ./wdio.conf.js"
+  }
+}

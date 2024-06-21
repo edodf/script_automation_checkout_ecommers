@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class='inventory_details_name large_size']\"}\n  (Session info: chrome=126.0.6478.63)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF6A7493E32+31618]\n\t(No symbol) [0x00007FF6A740B099]\n\t(No symbol) [0x00007FF6A72C888A]\n\t(No symbol) [0x00007FF6A7318524]\n\t(No symbol) [0x00007FF6A731862C]\n\t(No symbol) [0x00007FF6A735F787]\n\t(No symbol) [0x00007FF6A733D14F]\n\t(No symbol) [0x00007FF6A735CA80]\n\t(No symbol) [0x00007FF6A733CEB3]\n\t(No symbol) [0x00007FF6A730A46B]\n\t(No symbol) [0x00007FF6A730B001]\n\tGetHandleVerifier [0x00007FF6A7799FFD+3202381]\n\tGetHandleVerifier [0x00007FF6A77E6A1D+3516269]\n\tGetHandleVerifier [0x00007FF6A77DC490+3473888]\n\tGetHandleVerifier [0x00007FF6A7545D36+760454]\n\t(No symbol) [0x00007FF6A7416B3F]\n\t(No symbol) [0x00007FF6A7411CD4]\n\t(No symbol) [0x00007FF6A7411E62]\n\t(No symbol) [0x00007FF6A740120F]\n\tBaseThreadInitThunk [0x00007FFAD107257D+29]\n\tRtlUserThreadStart [0x00007FFAD304AF28+40]\n"
+}
